@@ -7,7 +7,9 @@
     <groupId>br.com.devdojo</groupId>
     <artifactId>devdojo-springboot</artifactId>
     <packaging>jar</packaging>
+    <build>
 
+    </build>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
